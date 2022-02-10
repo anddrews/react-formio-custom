@@ -11,7 +11,7 @@
     "formiojs": "^3.16.1",
     "intl-tel-input": "^15.1.2",
     "lodash": "^4.17.11",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "16.8.2",
     "react-app-rewired": "^2.1.3",
     "react-dom": "16.8.2",
